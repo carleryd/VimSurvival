@@ -1,5 +1,4 @@
 #include <iostream>
-#include <curses.h>
 #include <stdio.h>
 #include <sys/ioctl.h>
 #include <unistd.h>
